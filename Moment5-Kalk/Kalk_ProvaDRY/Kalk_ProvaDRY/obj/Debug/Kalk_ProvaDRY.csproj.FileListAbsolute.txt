@@ -1,0 +1,10 @@
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_ProvaDRY\Kalk_ProvaDRY\bin\Debug\Kalk_ProvaDRY.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_ProvaDRY\Kalk_ProvaDRY\bin\Debug\Kalk_ProvaDRY.exe
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_ProvaDRY\Kalk_ProvaDRY\bin\Debug\Kalk_ProvaDRY.pdb
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_ProvaDRY\Kalk_ProvaDRY\obj\Debug\Kalk_ProvaDRY.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_ProvaDRY\Kalk_ProvaDRY\obj\Debug\Kalk_ProvaDRY.Properties.Resources.resources
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_ProvaDRY\Kalk_ProvaDRY\obj\Debug\Kalk_ProvaDRY.csproj.GenerateResource.cache
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_ProvaDRY\Kalk_ProvaDRY\obj\Debug\Kalk_ProvaDRY.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_ProvaDRY\Kalk_ProvaDRY\obj\Debug\Kalk_ProvaDRY.exe
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_ProvaDRY\Kalk_ProvaDRY\obj\Debug\Kalk_ProvaDRY.pdb
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_ProvaDRY\Kalk_ProvaDRY\obj\Debug\Kalk_ProvaDRY.btnEql.resources

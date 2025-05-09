@@ -1,0 +1,10 @@
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Calc_ShortFort_Calculator\Calc_ShortFort_Calculator\bin\Debug\Calc_ShortFort_Calculator.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Calc_ShortFort_Calculator\Calc_ShortFort_Calculator\bin\Debug\Calc_ShortFort_Calculator.exe
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Calc_ShortFort_Calculator\Calc_ShortFort_Calculator\bin\Debug\Calc_ShortFort_Calculator.pdb
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Calc_ShortFort_Calculator\Calc_ShortFort_Calculator\obj\Debug\Calc_ShortFort_Calculator.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Calc_ShortFort_Calculator\Calc_ShortFort_Calculator\obj\Debug\Calc_ShortFort_Calculator.Form1.resources
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Calc_ShortFort_Calculator\Calc_ShortFort_Calculator\obj\Debug\Calc_ShortFort_Calculator.Properties.Resources.resources
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Calc_ShortFort_Calculator\Calc_ShortFort_Calculator\obj\Debug\Calc_ShortFort_Calculator.csproj.GenerateResource.cache
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Calc_ShortFort_Calculator\Calc_ShortFort_Calculator\obj\Debug\Calc_ShortFort_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Calc_ShortFort_Calculator\Calc_ShortFort_Calculator\obj\Debug\Calc_ShortFort_Calculator.exe
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Calc_ShortFort_Calculator\Calc_ShortFort_Calculator\obj\Debug\Calc_ShortFort_Calculator.pdb

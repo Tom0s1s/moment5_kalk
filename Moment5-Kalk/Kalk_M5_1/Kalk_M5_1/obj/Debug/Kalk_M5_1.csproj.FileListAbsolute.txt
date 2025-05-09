@@ -1,0 +1,10 @@
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_M5_1\Kalk_M5_1\bin\Debug\Kalk_M5_1.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_M5_1\Kalk_M5_1\bin\Debug\Kalk_M5_1.exe
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_M5_1\Kalk_M5_1\bin\Debug\Kalk_M5_1.pdb
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_M5_1\Kalk_M5_1\obj\Debug\Kalk_M5_1.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_M5_1\Kalk_M5_1\obj\Debug\Kalk_M5_1.Form1.resources
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_M5_1\Kalk_M5_1\obj\Debug\Kalk_M5_1.Properties.Resources.resources
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_M5_1\Kalk_M5_1\obj\Debug\Kalk_M5_1.csproj.GenerateResource.cache
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_M5_1\Kalk_M5_1\obj\Debug\Kalk_M5_1.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_M5_1\Kalk_M5_1\obj\Debug\Kalk_M5_1.exe
+C:\Users\tommy\OneDrive\Skrivbord\Moment2-p2\Kalk_M5_1\Kalk_M5_1\obj\Debug\Kalk_M5_1.pdb
